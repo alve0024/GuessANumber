@@ -1,3 +1,20 @@
 <resources>
     <string name="app_name">Guess A Number</string>
+    <string name="author">Leonardo Alps (alve0024)</string>
+    <string name="guess_button">Guess</string>
+    <string name="reset_button">Reset</string>
+    <string name="guess_edittext_hint">Type your guess</string>
+    <string name="about_dlg">About</string>
+    <string name="reset_confirmation">Reset Game?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="integer_error_msg">Your Guess Must be a Number.</string>
+    <string name="range_error_msg">Your Guess must be between %1$d and %2$d</string>
+    <string name="game_over_msg">GAME OVER! - The secret number was %1$d</string>
+    <string name="superior_win_msg">Superior WIN! - You tried %1$d times</string>
+    <string name="excellent_win_msg">Excellent WIN! - You tried %1$d times</string>
+    <string name="too_high_msg">Too High!!! You tried %1$d times</string>
+    <string name="too_low_msg">Too Low!!! You tried %1$d times</string>
+    <string name="reseting_game_msg">Reseting game...</string>
+    <string name="show_secret_number">The Secret Number is %1$d</string>
 </resources>
